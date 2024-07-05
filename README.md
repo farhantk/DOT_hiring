@@ -1,7 +1,7 @@
 # Manajemen Karyawan
-API yang dikembangkan menggunakan .NET Core dirancang untuk menyediakan solusi efektif dalam manajemen karyawan, fokus pada entitas Employee dan Department. 
+API yang dikembangkan menggunakan .NET Core dirancang untuk menyediakan solusi dalam manajemen karyawan, fokus pada entitas Employee dan Department. 
 
-Video demo: 
+Video demo: https://youtu.be/4I7SldIOGPQ
 
 Pertanyaan non teknis: https://youtu.be/6xy5IzqdDww
 
