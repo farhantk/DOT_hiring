@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DOT_hiring.props" />
+</Project>
